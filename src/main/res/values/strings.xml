@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">ParkingTicket</string>
+    <string name="title_activity_splash">Final Project Android</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="brand_arrays">
+        <item>"Acura"</item>
+        <item>"Alfa-Romeo"</item>
+        <item>"Audi"</item>
+        <item>"Bentley"</item>
+        <item>"BMW"</item>
+        <item>"Buick"</item>
+        <item>"Cadillac"</item>
+        <item>"Chevrolet"</item>
+        <item>"Dodge"</item>
+        <item>"Ferrari"</item>
+        <item>"Fiat"</item>
+        <item>"Ford"</item>
+        <item>"GMC"</item>
+        <item>"Honda"</item>
+        <item>"Hyundai"</item>
+        <item>"Infiniti"</item>
+        <item>"Jaguar"</item>
+        <item>"KIA"</item>
+        <item>"Lamborghini"</item>
+        <item>"Land-Rover"</item>
+        <item>"Mercedes-Benz"</item>
+        <item>"Mini-Cooper"</item>
+        <item>"Nissan"</item>
+        <item>"Porsche"</item>
+        <item>"Ram"</item>
+        <item>"Rolls-Royce"</item>
+        <item>"Subaru"</item>
+        <item>"Tesla"</item>
+        <item>"Toyota"</item>
+        <item>"Volkswagen"</item>
+    </string-array>
+
+    <string-array name="color_arrays">
+        <item>"White"</item>
+        <item>"Purple"</item>
+        <item>"White Diamond Pearl"</item>
+        <item>"Silver"</item>
+        <item>"Red"</item>
+        <item>"Black"</item>
+        <item>"Grey"</item>
+        <item>"Blue"</item>
+        <item>"Brown"</item>
+    </string-array>
+
+    <string-array name="lane_arrays">
+        <item>Lane A</item>
+        <item>Lane B</item>
+        <item>Lane C</item>
+        <item>Lane D</item>
+        <item>Lane E</item>
+        <item>Lane F</item>
+    </string-array>
+
+    <string-array name="level_arrays">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+        <item>P4</item>
+        <item>P5</item>
+        <item>P6</item>
+        <item>P7</item>
+        <item>P8</item>
+    </string-array>
+
+    <string-array name="payment_arrays">
+        <item>Credit Card</item>
+        <item>Debit</item>
+        <item>Cash</item>
+    </string-array>
+
+</resources>
+
+
